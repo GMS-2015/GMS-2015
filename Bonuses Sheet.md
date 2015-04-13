@@ -19,6 +19,7 @@ Echo
 |3/18|Marie MANIGLIER|0.25|good answer on class|
 |3/18|Herster|0.25|good question about the wechat|
 |3/24|Bobby Kurniawan|0.1|help Massine git and github|
+|4/1|Bruno Jacquelin|0.25|help to set up the public repository|
 |4/11|Melinda Tjia|0.25|www.mindtools.com|
 |4/11|Iker|0.1+0.1|good answer before and in the class|
 |4/11|David Maximilian|0.25|answer for "why China will rule"|
